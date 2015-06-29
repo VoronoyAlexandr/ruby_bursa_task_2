@@ -37,5 +37,5 @@ describe LibraryManager do
     manager.penalty_to_finish
   end
 
-  
+   
 end
